@@ -1,0 +1,24 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": false
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "README",
+        "color": "#fa0000"
+      },
+      {
+        "query": "JAVA",
+        "color": "#e07015"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 1,
+    "particleSize": 6,
+    "particleCount": 7
+  }
+}

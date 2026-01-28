@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:KAFKA  ",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 14703442
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +39,6 @@
   "repelStrength": 18.9965397923875,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1,
-  "close": true
+  "scale": 0.9999999999999982,
+  "close": false
 }
