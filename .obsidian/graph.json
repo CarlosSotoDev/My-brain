@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 14703442
       }
+    },
+    {
+      "query": "file:Cloud Computing",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    },
+    {
+      "query": "section:(aws)",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.9999999999999982,
-  "close": false
+  "close": true
 }

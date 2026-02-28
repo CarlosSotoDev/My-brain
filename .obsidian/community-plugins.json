@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "3d-graph"
+  "3d-graph",
+  "table-editor-obsidian",
+  "obsidian-icon-folder",
+  "iconic",
+  "highlightr-plugin",
+  "editing-toolbar"
 ]
