@@ -20,7 +20,21 @@
             }
           },
           {
-            "id": "aa881f1eec07dfb6",
+            "id": "414289497ff14d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/CLOUD COMPUTING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLOUD COMPUTING"
+            }
+          },
+          {
+            "id": "4dc0adb71c542c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +46,23 @@
               "icon": "lucide-file",
               "title": "3. Kafka Subscribers"
             }
+          },
+          {
+            "id": "487cacd4cb5c1fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,13 +249,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "aa881f1eec07dfb6",
+  "active": "487cacd4cb5c1fb8",
   "lastOpenFiles": [
-    "KAFKA/4. Kafka Errors.md",
-    "README.md",
-    "KAFKA/3. Kafka Subscribers.md",
-    "ASSETS/IMG/KAFKA",
     "CLOUD/CLOUD COMPUTING.md",
+    "KAFKA/4. Kafka Errors.md",
+    "KAFKA/3. Kafka Subscribers.md",
+    "README.md",
+    "ASSETS/IMG/KAFKA",
     "KAFKA/2. Kafka Producers.md",
     "KAFKA/1. Introducción a Kafka.md",
     "KAFKA/KAFKA.md",
