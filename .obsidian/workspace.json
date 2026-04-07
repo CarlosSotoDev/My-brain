@@ -34,35 +34,7 @@
             }
           },
           {
-            "id": "4dc0adb71c542c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KAFKA/3. Kafka Subscribers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Kafka Subscribers"
-            }
-          },
-          {
-            "id": "487cacd4cb5c1fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KAFKA/1. Introducción a Kafka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Introducción a Kafka"
-            }
-          },
-          {
-            "id": "99acba7b52b387ff",
+            "id": "5585235037c40fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,7 +48,7 @@
             }
           },
           {
-            "id": "8ff92c09aad8f4aa",
+            "id": "b57ceee61019b0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,10 +59,38 @@
               },
               "icon": "lucide-file",
               "title": "Arquitectura Kafka Profesional"
+            }
+          },
+          {
+            "id": "2f6bafc67f32347a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS"
+            }
+          },
+          {
+            "id": "19f7221e513236db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KAFKA/4. Kafka Errors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Kafka Errors"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25367492dc96b464",
@@ -277,10 +278,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8ff92c09aad8f4aa",
+  "active": "2f6bafc67f32347a",
   "lastOpenFiles": [
-    "KAFKA/KAFKA.md",
     "KAFKA/Arquitectura Kafka Profesional.md",
+    "KAFKA/4. Kafka Errors.md",
+    "CLOUD/AWS.md",
+    "CLOUD/CLOUD COMPUTING.md",
+    "ASSETS/IMG/KAFKA/DeadLetterStrategyArquitecture.webp",
+    "ASSETS/IMG/KAFKA/ErrorTopics.webp",
+    "ASSETS/IMG/ErrorTopics.webp.md",
+    "KAFKA/KAFKA.md",
+    "ASSETS/IMG/KAFKA.md",
+    "ASSETS/IMG/KAFKA/DeadLetterStrategyArquitecture.md",
+    "KAFKA/3. Kafka Subscribers.md",
+    "KAFKA/1. Introducción a Kafka.md",
+    "ASSETS/IMG/DeadLetterStrategyArquitecture.webp.md",
     "KAFKA/Kafka/producers/producer/build/reports/problems/problems-report.html",
     "KAFKA/Kafka/producers/producer/build/reports/problems",
     "KAFKA/Kafka/producers/producer/build/reports",
@@ -294,17 +306,12 @@
     "KAFKA/Kafka/docker-images/POSTGRESQL/README.md",
     "KAFKA/Kafka/subscribers/dls-subscriber/HELP.md",
     "KAFKA/Kafka/producers/producer/HELP.md",
-    "KAFKA/1. Introducción a Kafka.md",
     "KAFKA/Kafka/subscribers/subscriberPartition1/HELP.md",
     "KAFKA/Kafka/subscribers/subscriberPartition0/HELP.md",
     "KAFKA/Kafka/docker-images/KAFKA/README.MD",
     "KAFKA/Kafka/assets/img/ErrorTopics.webp",
     "KAFKA/Kafka/assets/img/DeadLetterStrategyArquitecture.webp",
     "KAFKA/2. Kafka Producers.md",
-    "KAFKA/3. Kafka Subscribers.md",
-    "KAFKA/4. Kafka Errors.md",
-    "CLOUD/AWS.md",
-    "CLOUD/CLOUD COMPUTING.md",
     "README.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
@@ -312,10 +319,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "Sin título 1.canvas",
     "Sin título.canvas"
   ]
