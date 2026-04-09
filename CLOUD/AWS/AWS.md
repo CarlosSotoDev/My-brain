@@ -2,6 +2,8 @@
 
 AWS (Amazon Web Services) es la plataforma de servicios en la nube más completa y adoptada del mundo. En lugar de que una empresa tenga que comprar, mantener y configurar sus propios servidores físicos o bases de datos en un cuarto refrigerado, simplemente se los "alquila" en Amazon y accede a ellos a través de internet.
 
+![](ASSETS/IMG/CLOUD/AWS.webp)
+
 ---
 ## <mark style="background:#40a9ff">El concepto de "Computación en la nube"</mark>
 

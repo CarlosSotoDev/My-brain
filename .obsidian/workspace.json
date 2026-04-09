@@ -265,8 +265,12 @@
   },
   "active": "4b18a3847e55f55f",
   "lastOpenFiles": [
-    "CLOUD/AWS/AWS.md",
+    "ASSETS/IMG/CLOUD/ModelosDeServicio.webp",
+    "ASSETS/IMG.md",
     "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
+    "CLOUD/AWS/AWS.md",
+    "ASSETS/IMG/CLOUD/AWS.webp",
+    "ASSETS/IMG/CLOUD",
     "KAFKA/4. Kafka Errors.md",
     "KAFKA/Arquitectura Kafka Profesional.md",
     "CLOUD/CLOUD COMPUTING.md",
@@ -288,7 +292,6 @@
     "KAFKA/Kafka/producers/producer/build/generated/sources/headers/java",
     "KAFKA/Kafka/producers/producer/build/generated/sources/annotationProcessor/java",
     "KAFKA/Kafka/producers/producer/build/generated/sources/headers",
-    "KAFKA/Kafka/producers/producer/build/generated/sources/annotationProcessor",
     "KAFKA/Kafka/docker-images/POSTGRESQL/README.md",
     "KAFKA/Kafka/subscribers/dls-subscriber/HELP.md",
     "KAFKA/Kafka/producers/producer/HELP.md",
@@ -303,8 +306,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "Sin título 1.canvas",
     "Sin título.canvas"
   ]
