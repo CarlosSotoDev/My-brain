@@ -26,7 +26,7 @@ Aquí concentro:
 - Frameworks como Spring  
 - Buenas prácticas, patrones y errores comunes
 
-👉 [[Java]]
+👉 [[JAVA]]
 
 ---
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderKanban",
       "LiFolderMinus",
       "LiFolderSymlink",
       "LiFolderDot",
-      "LiFolderCode",
-      "LiBrain"
+      "LiFolderCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,8 +35,9 @@
     "useInternalPlugins": false
   },
   "README.md": "LiBrain",
-  "JAVA": "LiFolderCode",
   "KAFKA": "LiFolderDot",
   "CLOUD": "LiFolderSymlink",
-  "ASSETS": "LiFolderMinus"
+  "ASSETS": "LiFolderMinus",
+  "FRONTEND": "LiFolderKanban",
+  "BACKEND/JAVA": "LiFolderCode"
 }
