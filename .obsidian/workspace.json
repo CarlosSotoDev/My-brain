@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "0eb0fc985f7aa565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/CLOUD COMPUTING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLOUD COMPUTING"
+            }
+          },
+          {
             "id": "414289497ff14d20",
             "type": "leaf",
             "state": {
@@ -34,35 +48,34 @@
             }
           },
           {
-            "id": "2f6bafc67f32347a",
+            "id": "73321313f75e27e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
+                "file": "MENSAJERIA/MESSAGES BROKERS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Infraestructura e introducción a los servicios de AWS"
+              "title": "MESSAGES BROKERS"
             }
           },
           {
-            "id": "4b18a3847e55f55f",
+            "id": "1990dc9431b4d543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. AWS Managment Console vs AWS Command Line Interface"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25367492dc96b464",
@@ -250,11 +262,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4b18a3847e55f55f",
+  "active": "6acdaa284764defa",
   "lastOpenFiles": [
-    "ASSETS/IMG/CLOUD/ConsolaVsGrafica.webp",
+    "CLOUD/CLOUD COMPUTING.md",
+    "README.md",
+    "MENSAJERIA/MESSAGES BROKERS.md",
+    "BACKEND/BACKEND.md",
     "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
     "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
+    "FRONTEND/FRONTEND.md",
+    "MENSAJERIA",
+    "ASSETS/IMG/CLOUD/ConsolaVsGrafica.webp",
     "BACKEND",
     "FRONTEND",
     "CLOUD/AWS/AWS.md",
@@ -264,7 +282,6 @@
     "ASSETS/IMG/CLOUD",
     "KAFKA/4. Kafka Errors.md",
     "KAFKA/Arquitectura Kafka Profesional.md",
-    "CLOUD/CLOUD COMPUTING.md",
     "CLOUD/AWS",
     "ASSETS/IMG/KAFKA/DeadLetterStrategyArquitecture.webp",
     "ASSETS/IMG/KAFKA/ErrorTopics.webp",
@@ -280,7 +297,6 @@
     "KAFKA/Kafka/producers/producer/build/reports",
     "KAFKA/Kafka/producers/producer/build/generated/sources/headers/java/main",
     "KAFKA/Kafka/producers/producer/build/generated/sources/annotationProcessor/java/main",
-    "KAFKA/Kafka/producers/producer/build/generated/sources/headers/java",
     "KAFKA/Kafka/docker-images/POSTGRESQL/README.md",
     "KAFKA/Kafka/subscribers/dls-subscriber/HELP.md",
     "KAFKA/Kafka/producers/producer/HELP.md",
@@ -290,10 +306,7 @@
     "KAFKA/Kafka/assets/img/ErrorTopics.webp",
     "KAFKA/Kafka/assets/img/DeadLetterStrategyArquitecture.webp",
     "KAFKA/2. Kafka Producers.md",
-    "README.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "Sin título 1.canvas",
     "Sin título.canvas"
   ]

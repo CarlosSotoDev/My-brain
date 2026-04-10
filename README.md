@@ -26,8 +26,6 @@ Aquí concentro:
 - Frameworks como Spring  
 - Buenas prácticas, patrones y errores comunes
 
-👉 [[JAVA]]
-
 ---
 
 ### 🏗️ Arquitectura
@@ -47,9 +45,19 @@ Aquí guardo:
 - Productores y consumidores  
 - Casos de uso
 
-[[KAFKA]]
-
 ---
 ### Cloud
 Servicios sobre la Nube de diferentes distribuidores
 [[CLOUD COMPUTING]]
+
+Frontend
+Servicios sobre la Nube de diferentes distribuidores
+[[FRONTEND]]
+
+Backend
+Servicios sobre la Nube de diferentes distribuidores
+[[BACKEND]]
+
+Mensajeria
+Servicios sobre la Nube de diferentes distribuidores
+[[MESSAGES BROKERS]]
