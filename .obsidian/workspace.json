@@ -34,90 +34,6 @@
             }
           },
           {
-            "id": "d63663a44441cd10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Infraestructura e introducción a los servicios de AWS"
-            }
-          },
-          {
-            "id": "fcc028cb87376028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRONTEND/ANGULAR/1. De Back a Front.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. De Back a Front"
-            }
-          },
-          {
-            "id": "9cde3e4ba17b0078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. AWS Managment Console vs AWS Command Line Interface"
-            }
-          },
-          {
-            "id": "62bb85c7599cbe33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Infraestructura e introducción a los servicios de AWS"
-            }
-          },
-          {
-            "id": "f5533d6d25b5b72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/AWS/AWS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS"
-            }
-          },
-          {
-            "id": "19fe0621445741eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FRONTEND/ANGULAR/Angular.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angular"
-            }
-          },
-          {
             "id": "7938c8aca60e69ea",
             "type": "leaf",
             "state": {
@@ -137,16 +53,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FRONTEND/ANGULAR/2. De Back a Front 2.md",
+                "file": "FRONTEND/ANGULAR/2.1 Flujo Real y cosas a saber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. De Back a Front 2"
+              "title": "2.1 Flujo Real y cosas a saber"
+            }
+          },
+          {
+            "id": "2e0fcbd5b4f63366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Servidor Minecraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Servidor Minecraft"
+            }
+          },
+          {
+            "id": "65511fc631654636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/2.1 Flujo Real y cosas a saber.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Flujo Real y cosas a saber"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -333,20 +277,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "25e817d977abcbd7",
+  "active": "65511fc631654636",
   "lastOpenFiles": [
-    "CLOUD/AWS/AWS.md",
+    "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
+    "FRONTEND/ANGULAR/1. De Back a Front.md",
+    "FRONTEND/ANGULAR/2.1 Flujo Real y cosas a saber.md",
+    "ASSETS/IMG/ANGULAR/FlujoRealFrontBack.webp",
     "FRONTEND/ANGULAR/2. De Back a Front 2.md",
+    "FRONTEND/ANGULAR/Angular.md",
+    "CLOUD/AWS/AWS.md",
+    "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
+    "Servidor Minecraft.md",
     "ASSETS/IMG/ANGULAR/StandaloneArchitecture.webp",
     "ASSETS/IMG/ANGULAR",
-    "FRONTEND/ANGULAR/1. De Back a Front.md",
-    "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
-    "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
-    "FRONTEND/ANGULAR/Angular.md",
     "README.md",
     "MENSAJERIA/MESSAGES BROKERS.md",
     "CLOUD/CLOUD COMPUTING.md",
-    "Servidor Minecraft.md",
     "FRONTEND/FRONTEND.md",
     "BACKEND/JAVA/JAVA.md",
     "FRONTEND/ANGULAR",
@@ -372,7 +318,6 @@
     "ASSETS/IMG/KAFKA/DeadLetterStrategyArquitecture.md",
     "KAFKA/3. Kafka Subscribers.md",
     "KAFKA/1. Introducción a Kafka.md",
-    "ASSETS/IMG/DeadLetterStrategyArquitecture.webp.md",
     "KAFKA/Kafka/producers/producer/build/reports/problems/problems-report.html",
     "KAFKA/Kafka/producers/producer/build/reports/problems",
     "KAFKA/Kafka/producers/producer/build/reports",
