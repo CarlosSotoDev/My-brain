@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderCode",
       "LiFolderInput",
       "LiFolderSync",
       "LiFolderKanban",
-      "LiFolderMinus",
-      "LiFolderSymlink"
+      "LiFolderMinus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "FRONTEND": "LiFolderKanban",
   "BACKEND/JAVA": "LiFolderCode",
   "MENSAJERIA": "LiFolderSync",
-  "BACKEND": "LiFolderInput"
+  "BACKEND": "LiFolderInput",
+  "FRONTEND/ANGULAR": "LiFolderCode"
 }

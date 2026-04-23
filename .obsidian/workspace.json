@@ -20,48 +20,6 @@
             }
           },
           {
-            "id": "0eb0fc985f7aa565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/CLOUD COMPUTING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLOUD COMPUTING"
-            }
-          },
-          {
-            "id": "414289497ff14d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLOUD/CLOUD COMPUTING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLOUD COMPUTING"
-            }
-          },
-          {
-            "id": "73321313f75e27e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MENSAJERIA/MESSAGES BROKERS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MESSAGES BROKERS"
-            }
-          },
-          {
             "id": "1990dc9431b4d543",
             "type": "leaf",
             "state": {
@@ -74,8 +32,135 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "d63663a44441cd10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Infraestructura e introducción a los servicios de AWS"
+            }
+          },
+          {
+            "id": "fcc028cb87376028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/1. De Back a Front.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. De Back a Front"
+            }
+          },
+          {
+            "id": "9cde3e4ba17b0078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. AWS Managment Console vs AWS Command Line Interface"
+            }
+          },
+          {
+            "id": "62bb85c7599cbe33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Infraestructura e introducción a los servicios de AWS"
+            }
+          },
+          {
+            "id": "f5533d6d25b5b72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLOUD/AWS/AWS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS"
+            }
+          },
+          {
+            "id": "2589c0e2eafacb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/1. De Back a Front.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. De Back a Front"
+            }
+          },
+          {
+            "id": "19fe0621445741eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/Angular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Angular"
+            }
+          },
+          {
+            "id": "7938c8aca60e69ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/1. De Back a Front.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. De Back a Front"
+            }
+          },
+          {
+            "id": "25e817d977abcbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/ANGULAR/2. De Back a Front 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. De Back a Front 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -239,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -262,20 +347,28 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6acdaa284764defa",
+  "active": "25e817d977abcbd7",
   "lastOpenFiles": [
-    "CLOUD/CLOUD COMPUTING.md",
-    "README.md",
-    "MENSAJERIA/MESSAGES BROKERS.md",
-    "BACKEND/BACKEND.md",
+    "FRONTEND/ANGULAR/2. De Back a Front 2.md",
+    "FRONTEND/ANGULAR/1. De Back a Front.md",
     "CLOUD/AWS/1. Infraestructura e introducción a los servicios de AWS.md",
     "CLOUD/AWS/2. AWS Managment Console vs AWS Command Line Interface.md",
+    "FRONTEND/ANGULAR/Angular.md",
+    "CLOUD/AWS/AWS.md",
+    "README.md",
+    "MENSAJERIA/MESSAGES BROKERS.md",
+    "CLOUD/CLOUD COMPUTING.md",
+    "Servidor Minecraft.md",
     "FRONTEND/FRONTEND.md",
+    "BACKEND/JAVA/JAVA.md",
+    "FRONTEND/ANGULAR",
+    "BACKEND/BACKEND.md",
+    "Sin título.md",
+    "2026-04-09.md",
     "MENSAJERIA",
     "ASSETS/IMG/CLOUD/ConsolaVsGrafica.webp",
     "BACKEND",
     "FRONTEND",
-    "CLOUD/AWS/AWS.md",
     "ASSETS/IMG/CLOUD/ModelosDeServicio.webp",
     "ASSETS/IMG.md",
     "ASSETS/IMG/CLOUD/AWS.webp",
@@ -296,17 +389,9 @@
     "KAFKA/Kafka/producers/producer/build/reports/problems",
     "KAFKA/Kafka/producers/producer/build/reports",
     "KAFKA/Kafka/producers/producer/build/generated/sources/headers/java/main",
-    "KAFKA/Kafka/producers/producer/build/generated/sources/annotationProcessor/java/main",
     "KAFKA/Kafka/docker-images/POSTGRESQL/README.md",
-    "KAFKA/Kafka/subscribers/dls-subscriber/HELP.md",
-    "KAFKA/Kafka/producers/producer/HELP.md",
-    "KAFKA/Kafka/subscribers/subscriberPartition1/HELP.md",
-    "KAFKA/Kafka/subscribers/subscriberPartition0/HELP.md",
-    "KAFKA/Kafka/docker-images/KAFKA/README.MD",
     "KAFKA/Kafka/assets/img/ErrorTopics.webp",
     "KAFKA/Kafka/assets/img/DeadLetterStrategyArquitecture.webp",
-    "KAFKA/2. Kafka Producers.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "Sin título 1.canvas",
     "Sin título.canvas"
   ]
